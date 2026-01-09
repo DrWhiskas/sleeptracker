@@ -1,4 +1,3 @@
-import React from "react";
 import type { SleepEntry } from "../../types/type";
 import { Sun, TrendingUp, Target } from 'lucide-react';
 

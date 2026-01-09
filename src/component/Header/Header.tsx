@@ -1,5 +1,4 @@
-import React from "react";
-import { Moon, Sun, Target, TrendingUp, Calendar, Clock } from 'lucide-react';
+import { Moon, Clock } from 'lucide-react';
 
 
 export default function Header({ currentTime }: { currentTime: Date }) {
